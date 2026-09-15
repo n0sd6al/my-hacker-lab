@@ -1,9 +1,10 @@
-# My personal manifest
+# My Personal Manifest
 
-## Why i am here? 
-I'm here to understand everithg about etichal hacking and use this to become a good cibersecurity professioal.
+## Why am I here? 
+I'm here to understand everything about ethical hacking and use this knowledge to become a good cybersecurity professional.
 
-## What i promisse for myself?
-1. I will use all adquired knowledge in the course for good things;
+## What do I promise myself?
+1. I will use all acquired knowledge from the course for good purposes;
 2. I will document everything;
-3. I understand the WHY do and WHY NOT do something;
+3. I will understand the "WHY to do" and "WHY NOT to do" something.
+
